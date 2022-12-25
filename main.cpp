@@ -14,9 +14,6 @@ void massive_filler(int mas[], int a)
 	}
 }
 
-
-
-
 int main() 
 {
 	srand(time(NULL));
